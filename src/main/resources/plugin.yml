@@ -1,0 +1,9 @@
+name: Inception
+version: ${project.version}
+main: ru.adventures.inception.Inception
+api-version: 1.18
+prefix: Inception
+depend: [ Adventures ]
+authors: [ aracle, WhiteDove ]
+description: Plugin for region protection on Adventures - minecraft server
+website: adventures-server.ru
